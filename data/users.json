@@ -1,0 +1,47 @@
+[
+    {
+        "firstName": "Rounak",
+        "lastName": "Ghosh",
+        "username": "Rnk_182",
+        "hash": "$2a$10$CgTikfyOZI2lKGzT9z4sjuls9KFL.e1AlfrHBTDn6wmKl9nSjo7ue",
+        "id": 1,
+        "dateCreated": "2022-08-26T14:09:36.182Z",
+        "dateUpdated": "2022-08-26T14:09:36.182Z"
+    },
+    {
+        "firstName": "Arnab",
+        "lastName": "Mitra",
+        "username": "Arnab_123",
+        "hash": "$2a$10$eCaoK6lRIJ/exrDuTPtq5OdthFcuq6x9/dpJX.96J1./MPSY/2/6.",
+        "id": 2,
+        "dateCreated": "2022-08-26T14:17:14.530Z",
+        "dateUpdated": "2022-08-26T14:17:14.530Z"
+    },
+    {
+        "firstName": "Kaustav",
+        "lastName": "Barman",
+        "username": "Kaustav .",
+        "hash": "$2a$10$a3mSlzli52qdUJ7xnJqeoOk0ni.7LZVYsOklP4G22zT3xnZvig/oC",
+        "id": 3,
+        "dateCreated": "2022-08-29T08:46:56.336Z",
+        "dateUpdated": "2022-08-29T08:46:56.336Z"
+    },
+    {
+        "firstName": "XYZ",
+        "lastName": "ABC",
+        "username": "Xyz_987",
+        "hash": "$2a$10$DTCsIWrg/hKemEpEj10IX.RRkKsHDQuOLgXi8pBkAc4cZe4ARO7Oe",
+        "id": 4,
+        "dateCreated": "2022-08-29T08:47:14.994Z",
+        "dateUpdated": "2022-08-29T08:47:14.994Z"
+    },
+    {
+        "firstName": "Rounak",
+        "lastName": "Ghosh",
+        "username": "Rnk_183",
+        "hash": "$2a$10$29qN2oimz7eOUwTM/PR4lOUGMq6bWoz3qB6uln.6Xdpa1kOrnIAL.",
+        "id": 5,
+        "dateCreated": "2022-08-29T08:47:45.180Z",
+        "dateUpdated": "2022-08-29T08:47:45.180Z"
+    }
+]
